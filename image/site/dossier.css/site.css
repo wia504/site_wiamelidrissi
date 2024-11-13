@@ -1,0 +1,123 @@
+/* Réinitialisation des marges et paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+    margin: 0;
+    padding:0;
+ }
+
+.tit1{
+color: #4b6a43;
+float: left;
+font-size: 30px;
+margin-top: 10px;
+background-color: #89b47c;
+border-radius: 100%;
+
+}
+ul{
+    float: right;
+    list-style: none;
+}
+.li{
+   float: left;
+   padding: 10px;
+   font-size: 22px;
+   color: white;
+    
+}
+nav{
+    height: 60px;
+    background-color: 89b47c;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.btn1{
+    background-color: #89b47c;
+    color: white;
+    padding: 5px;
+    margin-right: 90px;
+    border:#89b47c ;
+}
+.content{
+    height: 600px;
+    background-image: url(../image/img.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    height: 550px;
+    
+}
+
+.c1{
+    padding: 150px;
+}
+.tcontent{
+    color: white;
+    font-size: 50px;
+}
+.text1{
+margin: 20px;
+color: whitesmoke;
+font-size: 25px;
+}
+.bnt1{
+    margin-top: 25px;
+    font-size: 20px;
+   
+}
+body{
+    background-color: #89b47c;
+}
+.tit2{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin-top: 10px;
+    margin-right: 80px;
+}
+.c2{
+    
+    width:70% ;
+    float: left;
+    
+    
+   
+}
+.secimg{
+    width: 30%;
+    float: right;
+}
+.img1{
+    height: 200px;
+    width: 380px;
+    
+}
+.logo1{
+    width: 45px;
+    height: 45px;
+    margin-left: 500px;
+    
+}
+.logo2{
+    width: 50px;
+    height: 50px;
+}
+.logo3{
+    width: 50px;
+    height: 50px;
+}
+.t2{
+    font-size: 30px;
+    color: black;
+    margin-left: 430px;
+}
+.t4{
+   margin-left: 400px;
+    color: black;
+}

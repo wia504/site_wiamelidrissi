@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+    margin: 0;
+    padding:0;
+ }
+
+.tit1{
+color: #4b6a43;
+float: left;
+font-size: 30px;
+margin-top: 10px;
+background-color: #89b47c;
+border-radius: 100%;
+
+}
+ul{
+    float: right;
+    list-style: none;
+}
+.li1{
+   float: left;
+   padding: 10px;
+   font-size: 22px;
+   color: white;
+    
+}
+nav{
+    height: 60px;
+    background-color: 89b47c;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
